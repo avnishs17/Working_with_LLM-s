@@ -3,3 +3,4 @@ env/
 
 # Ignore the steps.md file
 steps.md
+.gitignore
