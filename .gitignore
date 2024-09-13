@@ -1,6 +1,0 @@
-# Ignore the env folder
-env/
-
-# Ignore the steps.md file
-steps.md
-.gitignore
